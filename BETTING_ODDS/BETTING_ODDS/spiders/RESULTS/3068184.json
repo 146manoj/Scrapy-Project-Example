@@ -1,0 +1,3735 @@
+{
+    "gameID": "3068184",
+    "oddsFlow": [
+        {
+            "5Dimes": [
+                {
+                    "full": [
+                        {
+                            "SPREAD": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:43 PM",
+                                    "homeSpread": "+8 -110",
+                                    "awaySpread": "-8 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:30 PM",
+                                    "homeSpread": "+8 -103",
+                                    "awaySpread": "-8 -107"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:09 PM",
+                                    "homeSpread": "+8½ -109",
+                                    "awaySpread": "-8½ -101"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "03:02 PM",
+                                    "homeSpread": "+8½ -107",
+                                    "awaySpread": "-8½ -103"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:05 PM",
+                                    "homeSpread": "+8½ -105",
+                                    "awaySpread": "-8½ -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:03 AM",
+                                    "homeSpread": "+8 -105",
+                                    "awaySpread": "-8 -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:48 AM",
+                                    "homeSpread": "+7½ -107",
+                                    "awaySpread": "-7½ -103"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:45 AM",
+                                    "homeSpread": "+7½ -110",
+                                    "awaySpread": "-7½ -110"
+                                }
+                            ],
+                            "MONEY LINE": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:43 PM",
+                                    "homeMoneyLine": "  +275",
+                                    "awayMoneyLine": "  -335"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:09 PM",
+                                    "homeMoneyLine": "  +290",
+                                    "awayMoneyLine": "  -320"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "06:58 PM",
+                                    "homeMoneyLine": "  +305",
+                                    "awayMoneyLine": "  -335"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "06:55 PM",
+                                    "homeMoneyLine": "  +295",
+                                    "awayMoneyLine": "  -325"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:45 PM",
+                                    "homeMoneyLine": "  +315",
+                                    "awayMoneyLine": "  -345"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "03:02 PM",
+                                    "homeMoneyLine": "  +335",
+                                    "awayMoneyLine": "  -375"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:06 PM",
+                                    "homeMoneyLine": "  +340",
+                                    "awayMoneyLine": "  -380"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:05 PM",
+                                    "homeMoneyLine": "  +328",
+                                    "awayMoneyLine": "  -365"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:02 AM",
+                                    "homeMoneyLine": "  +305",
+                                    "awayMoneyLine": "  -335"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:48 AM",
+                                    "homeMoneyLine": "  +300",
+                                    "awayMoneyLine": "  -330"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:46 AM",
+                                    "homeMoneyLine": "  +280",
+                                    "awayMoneyLine": "  -340"
+                                }
+                            ],
+                            "TOTAL POINT": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:43 PM",
+                                    "underTotalPoint": "203 -110",
+                                    "overTotalPoint": "203 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:33 PM",
+                                    "underTotalPoint": "203 -105",
+                                    "overTotalPoint": "203 -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:30 PM",
+                                    "underTotalPoint": "203½ -105",
+                                    "overTotalPoint": "203½ -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:10 PM",
+                                    "underTotalPoint": "204 -107",
+                                    "overTotalPoint": "204 -103"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:09 PM",
+                                    "underTotalPoint": "204½ -102",
+                                    "overTotalPoint": "204½ -108"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:45 PM",
+                                    "underTotalPoint": "205 -106",
+                                    "overTotalPoint": "205 -104"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "08:02 AM",
+                                    "underTotalPoint": "205 -107",
+                                    "overTotalPoint": "205 -103"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:48 AM",
+                                    "underTotalPoint": "205 -108",
+                                    "overTotalPoint": "205 -102"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:45 AM",
+                                    "underTotalPoint": "205 -110",
+                                    "overTotalPoint": "205 -110"
+                                }
+                            ]
+                        }
+                    ],
+                    "1stHalf": [
+                        {
+                            "SPREAD": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:14 PM",
+                                    "homeSpread": "+4½ -105",
+                                    "awaySpread": "-4½ -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:08 PM",
+                                    "homeSpread": "+4½ -110",
+                                    "awaySpread": "-4½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:51 AM",
+                                    "homeSpread": "+4½ -115",
+                                    "awaySpread": "-4½ -105"
+                                }
+                            ],
+                            "MONEY LINE": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:14 PM",
+                                    "homeMoneyLine": "  +230",
+                                    "awayMoneyLine": "  -270"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:07 PM",
+                                    "homeMoneyLine": "  +220",
+                                    "awayMoneyLine": "  -260"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "08:13 AM",
+                                    "homeMoneyLine": "  +205",
+                                    "awayMoneyLine": "  -245"
+                                }
+                            ],
+                            "TOTAL POINT": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:08 PM",
+                                    "underTotalPoint": "103 -110",
+                                    "overTotalPoint": "103 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "06:04 PM",
+                                    "underTotalPoint": "103½ -110",
+                                    "overTotalPoint": "103½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "09:20 AM",
+                                    "underTotalPoint": "103 -110",
+                                    "overTotalPoint": "103 -110"
+                                }
+                            ]
+                        }
+                    ],
+                    "2ndHalf": [
+                        {
+                            "SPREAD": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "08:54 PM",
+                                    "homeSpread": "-1½ -110",
+                                    "awaySpread": "+1½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "08:46 PM",
+                                    "homeSpread": "-1 -125",
+                                    "awaySpread": "+1 +105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "08:45 PM",
+                                    "homeSpread": "-1 -125",
+                                    "awaySpread": "+1 +105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "08:41 PM",
+                                    "homeSpread": "-1 -125",
+                                    "awaySpread": "+1 +105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "08:40 PM",
+                                    "homeSpread": "-1 -125",
+                                    "awaySpread": "+1 +105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "08:40 PM",
+                                    "homeSpread": "-2 +101",
+                                    "awaySpread": "+1 +105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "08:40 PM",
+                                    "homeSpread": "-2 +101",
+                                    "awaySpread": "+1 +105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "08:40 PM",
+                                    "homeSpread": "-1½ -110",
+                                    "awaySpread": "+1½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "08:39 PM",
+                                    "homeSpread": "-1 -110",
+                                    "awaySpread": "+1 -110"
+                                }
+                            ],
+                            "MONEY LINE": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "08:40 PM",
+                                    "homeMoneyLine": "  -140",
+                                    "awayMoneyLine": "  +120"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "08:40 PM",
+                                    "homeMoneyLine": "  -135",
+                                    "awayMoneyLine": "  +115"
+                                }
+                            ],
+                            "TOTAL POINT": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "08:54 PM",
+                                    "underTotalPoint": "100 -110",
+                                    "overTotalPoint": "100 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "08:46 PM",
+                                    "underTotalPoint": "100 -110",
+                                    "overTotalPoint": "99½ -103"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "08:45 PM",
+                                    "underTotalPoint": "99½ -117",
+                                    "overTotalPoint": "99½ -103"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "08:41 PM",
+                                    "underTotalPoint": "100 -120",
+                                    "overTotalPoint": "100 +100"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "08:40 PM",
+                                    "underTotalPoint": "100½ -110",
+                                    "overTotalPoint": "100½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "08:40 PM",
+                                    "underTotalPoint": "101 -110",
+                                    "overTotalPoint": "101 -110"
+                                }
+                            ]
+                        }
+                    ],
+                    "1stQuarter": [
+                        {
+                            "SPREAD": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:28 PM",
+                                    "homeSpread": "+2½ -105",
+                                    "awaySpread": "-2½ -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:20 AM",
+                                    "homeSpread": "+2½ -110",
+                                    "awaySpread": "-2½ -110"
+                                }
+                            ],
+                            "MONEY LINE": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:28 PM",
+                                    "homeMoneyLine": "  +175",
+                                    "awayMoneyLine": "  -210"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:06 PM",
+                                    "homeMoneyLine": "  +170",
+                                    "awayMoneyLine": "  -200"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:20 AM",
+                                    "homeMoneyLine": "  +160",
+                                    "awayMoneyLine": "  -185"
+                                }
+                            ],
+                            "TOTAL POINT": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:36 PM",
+                                    "underTotalPoint": "51 -120",
+                                    "overTotalPoint": "51 +100"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:35 PM",
+                                    "underTotalPoint": "52½ -115",
+                                    "overTotalPoint": "52½ -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:12 PM",
+                                    "underTotalPoint": "51 -115",
+                                    "overTotalPoint": "51 -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "02:56 PM",
+                                    "underTotalPoint": "51 -110",
+                                    "overTotalPoint": "51 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:20 AM",
+                                    "underTotalPoint": "52 -110",
+                                    "overTotalPoint": "52 -110"
+                                }
+                            ]
+                        }
+                    ],
+                    "2ndQuarter": [
+                        {
+                            "SPREAD": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:07 PM",
+                                    "homeSpread": "+1½ -105",
+                                    "awaySpread": "-1½ -115"
+                                }
+                            ],
+                            "MONEY LINE": [],
+                            "TOTAL POINT": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:07 PM",
+                                    "underTotalPoint": "51 -110",
+                                    "overTotalPoint": "51 -110"
+                                }
+                            ]
+                        }
+                    ],
+                    "3rdQuarter": [
+                        {
+                            "SPREAD": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "08:46 PM",
+                                    "homeSpread": "-1 -110",
+                                    "awaySpread": "+1 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "08:42 PM",
+                                    "homeSpread": "-½ -110",
+                                    "awaySpread": "+½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:13 PM",
+                                    "homeSpread": "+2 -110",
+                                    "awaySpread": "-2 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "04:05 PM",
+                                    "homeSpread": "+2 -105",
+                                    "awaySpread": "-2 -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:08 PM",
+                                    "homeSpread": "+2 -110",
+                                    "awaySpread": "-2 -110"
+                                }
+                            ],
+                            "MONEY LINE": [],
+                            "TOTAL POINT": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "08:51 PM",
+                                    "underTotalPoint": "51 -110",
+                                    "overTotalPoint": "51 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "08:47 PM",
+                                    "underTotalPoint": "50½ -130",
+                                    "overTotalPoint": "50½ +110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "08:44 PM",
+                                    "underTotalPoint": "50½ -125",
+                                    "overTotalPoint": "50½ +105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "08:42 PM",
+                                    "underTotalPoint": "50½ -110",
+                                    "overTotalPoint": "50½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:13 PM",
+                                    "underTotalPoint": "50½ -115",
+                                    "overTotalPoint": "50½ -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:08 PM",
+                                    "underTotalPoint": "50½ -110",
+                                    "overTotalPoint": "50½ -110"
+                                }
+                            ]
+                        }
+                    ],
+                    "4thQuarter": [
+                        {
+                            "SPREAD": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "08:42 PM",
+                                    "homeSpread": "-½ -105",
+                                    "awaySpread": "+½ -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:14 PM",
+                                    "homeSpread": "+1½ -110",
+                                    "awaySpread": "-1½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "04:06 PM",
+                                    "homeSpread": "+1 -105",
+                                    "awaySpread": "-1 -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:09 PM",
+                                    "homeSpread": "+1 -110",
+                                    "awaySpread": "-1 -110"
+                                }
+                            ],
+                            "MONEY LINE": [],
+                            "TOTAL POINT": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:09 PM",
+                                    "underTotalPoint": "50 -110",
+                                    "overTotalPoint": "50 -110"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "pinnacle": [
+                {
+                    "full": [
+                        {
+                            "SPREAD": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:30 PM",
+                                    "homeSpread": "+8 -102",
+                                    "awaySpread": "-8 -108"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:25 PM",
+                                    "homeSpread": "+8 +100",
+                                    "awaySpread": "-8 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:25 PM",
+                                    "homeSpread": "+8 +102",
+                                    "awaySpread": "-8 -113"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:24 PM",
+                                    "homeSpread": "+8 +100",
+                                    "awaySpread": "-8 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:14 PM",
+                                    "homeSpread": "+8 +102",
+                                    "awaySpread": "-8 -113"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:11 PM",
+                                    "homeSpread": "+8 -105",
+                                    "awaySpread": "-8 -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:10 PM",
+                                    "homeSpread": "+8½ -113",
+                                    "awaySpread": "-8½ +102"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:09 PM",
+                                    "homeSpread": "+8½ -116",
+                                    "awaySpread": "-8½ +105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:08 PM",
+                                    "homeSpread": "+8½ -114",
+                                    "awaySpread": "-8½ +103"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "06:58 PM",
+                                    "homeSpread": "+8½ -110",
+                                    "awaySpread": "-8½ -100"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "06:55 PM",
+                                    "homeSpread": "+8½ -113",
+                                    "awaySpread": "-8½ +102"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "06:52 PM",
+                                    "homeSpread": "+8½ -109",
+                                    "awaySpread": "-8½ -101"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:13 PM",
+                                    "homeSpread": "+8½ -110",
+                                    "awaySpread": "-8½ -100"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "04:57 PM",
+                                    "homeSpread": "+8½ -109",
+                                    "awaySpread": "-8½ -101"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "03:28 PM",
+                                    "homeSpread": "+8½ -107",
+                                    "awaySpread": "-8½ -103"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:45 PM",
+                                    "homeSpread": "+8½ -109",
+                                    "awaySpread": "-8½ -101"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:05 PM",
+                                    "homeSpread": "+8½ -105",
+                                    "awaySpread": "-8½ -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:04 PM",
+                                    "homeSpread": "+8 +102",
+                                    "awaySpread": "-8 -113"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:21 AM",
+                                    "homeSpread": "+8 -102",
+                                    "awaySpread": "-8 -108"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:01 AM",
+                                    "homeSpread": "+8 -105",
+                                    "awaySpread": "-8 -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:00 AM",
+                                    "homeSpread": "+7½ +102",
+                                    "awaySpread": "-7½ -113"
+                                },
+                                {
+                                    "date": "04/10",
+                                    "Time": "03:16 PM",
+                                    "homeSpread": "+7½ -105",
+                                    "awaySpread": "-7½ -105"
+                                }
+                            ],
+                            "MONEY LINE": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:30 PM",
+                                    "homeMoneyLine": "  +289",
+                                    "awayMoneyLine": "  -330"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:14 PM",
+                                    "homeMoneyLine": "  +293",
+                                    "awayMoneyLine": "  -335"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:11 PM",
+                                    "homeMoneyLine": "  +281",
+                                    "awayMoneyLine": "  -320"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "06:55 PM",
+                                    "homeMoneyLine": "  +289",
+                                    "awayMoneyLine": "  -330"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:39 PM",
+                                    "homeMoneyLine": "  +297",
+                                    "awayMoneyLine": "  -340"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:38 PM",
+                                    "homeMoneyLine": "  +313",
+                                    "awayMoneyLine": "  -359"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:13 PM",
+                                    "homeMoneyLine": "  +318",
+                                    "awayMoneyLine": "  -365"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "02:45 PM",
+                                    "homeMoneyLine": "  +326",
+                                    "awayMoneyLine": "  -376"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "02:45 PM",
+                                    "homeMoneyLine": "  +326",
+                                    "awayMoneyLine": "  -376"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:05 PM",
+                                    "homeMoneyLine": "  +334",
+                                    "awayMoneyLine": "  -385"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:04 PM",
+                                    "homeMoneyLine": "  +314",
+                                    "awayMoneyLine": "  -360"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:02 AM",
+                                    "homeMoneyLine": "  +305",
+                                    "awayMoneyLine": "  -350"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "10:21 AM",
+                                    "homeMoneyLine": "  +292",
+                                    "awayMoneyLine": "  -333"
+                                }
+                            ],
+                            "TOTAL POINT": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:37 PM",
+                                    "underTotalPoint": "203 -113",
+                                    "overTotalPoint": "203 +102"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:34 PM",
+                                    "underTotalPoint": "203 -107",
+                                    "overTotalPoint": "203 -103"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:33 PM",
+                                    "underTotalPoint": "203 -105",
+                                    "overTotalPoint": "203 -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:33 PM",
+                                    "underTotalPoint": "204 +102",
+                                    "overTotalPoint": "204 -112"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:30 PM",
+                                    "underTotalPoint": "204 -100",
+                                    "overTotalPoint": "204 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:05 PM",
+                                    "underTotalPoint": "204 -105",
+                                    "overTotalPoint": "204 -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:02 PM",
+                                    "underTotalPoint": "204 -103",
+                                    "overTotalPoint": "204 -107"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:01 PM",
+                                    "underTotalPoint": "204 -105",
+                                    "overTotalPoint": "204 -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:01 PM",
+                                    "underTotalPoint": "205 +106",
+                                    "overTotalPoint": "205 -117"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "06:52 PM",
+                                    "underTotalPoint": "205 -101",
+                                    "overTotalPoint": "205 -109"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "06:07 PM",
+                                    "underTotalPoint": "205 -102",
+                                    "overTotalPoint": "205 -108"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "06:07 PM",
+                                    "underTotalPoint": "205 -105",
+                                    "overTotalPoint": "205 -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:38 PM",
+                                    "underTotalPoint": "205 -113",
+                                    "overTotalPoint": "205 +102"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:38 PM",
+                                    "underTotalPoint": "205 -111",
+                                    "overTotalPoint": "205 +101"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "03:08 PM",
+                                    "underTotalPoint": "205 -110",
+                                    "overTotalPoint": "205 +100"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "10:21 AM",
+                                    "underTotalPoint": "205 -108",
+                                    "overTotalPoint": "205 -102"
+                                },
+                                {
+                                    "date": "04/10",
+                                    "Time": "03:40 PM",
+                                    "underTotalPoint": "206 -105",
+                                    "overTotalPoint": "206 -105"
+                                }
+                            ]
+                        }
+                    ],
+                    "1stHalf": [
+                        {
+                            "SPREAD": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:14 PM",
+                                    "homeSpread": "+4½ -100",
+                                    "awaySpread": "-4½ -112"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "06:52 PM",
+                                    "homeSpread": "+4½ -104",
+                                    "awaySpread": "-4½ -108"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:05 PM",
+                                    "homeSpread": "+4½ -106",
+                                    "awaySpread": "-4½ -106"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:04 PM",
+                                    "homeSpread": "+4 +102",
+                                    "awaySpread": "-4 -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "09:53 AM",
+                                    "homeSpread": "+4 -100",
+                                    "awaySpread": "-4 -112"
+                                }
+                            ],
+                            "MONEY LINE": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:14 PM",
+                                    "homeMoneyLine": "  +230",
+                                    "awayMoneyLine": "  -266"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "06:52 PM",
+                                    "homeMoneyLine": "  +220",
+                                    "awayMoneyLine": "  -254"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:05 PM",
+                                    "homeMoneyLine": "  +213",
+                                    "awayMoneyLine": "  -245"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:04 PM",
+                                    "homeMoneyLine": "  +212",
+                                    "awayMoneyLine": "  -244"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "09:53 AM",
+                                    "homeMoneyLine": "  +208",
+                                    "awayMoneyLine": "  -239"
+                                }
+                            ],
+                            "TOTAL POINT": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:34 PM",
+                                    "underTotalPoint": "103 -106",
+                                    "overTotalPoint": "103 -106"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:34 PM",
+                                    "underTotalPoint": "103½ +103",
+                                    "overTotalPoint": "103½ -116"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:33 PM",
+                                    "underTotalPoint": "103½ +101",
+                                    "overTotalPoint": "103½ -113"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "06:57 PM",
+                                    "underTotalPoint": "103½ -102",
+                                    "overTotalPoint": "103½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "06:52 PM",
+                                    "underTotalPoint": "103½ -104",
+                                    "overTotalPoint": "103½ -108"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "06:34 PM",
+                                    "underTotalPoint": "103½ -106",
+                                    "overTotalPoint": "103½ -106"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "06:07 PM",
+                                    "underTotalPoint": "103½ -100",
+                                    "overTotalPoint": "103½ -112"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:20 PM",
+                                    "underTotalPoint": "103½ -106",
+                                    "overTotalPoint": "103½ -106"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:17 PM",
+                                    "underTotalPoint": "103 -112",
+                                    "overTotalPoint": "103 -100"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:07 PM",
+                                    "underTotalPoint": "103 -105",
+                                    "overTotalPoint": "103 -107"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "03:52 PM",
+                                    "underTotalPoint": "103 -103",
+                                    "overTotalPoint": "103 -109"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "02:55 PM",
+                                    "underTotalPoint": "103 -100",
+                                    "overTotalPoint": "103 -112"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "09:53 AM",
+                                    "underTotalPoint": "103 -106",
+                                    "overTotalPoint": "103 -106"
+                                }
+                            ]
+                        }
+                    ],
+                    "2ndHalf": [
+                        {
+                            "SPREAD": [],
+                            "MONEY LINE": [],
+                            "TOTAL POINT": []
+                        }
+                    ],
+                    "1stQuarter": [
+                        {
+                            "SPREAD": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:17 PM",
+                                    "homeSpread": "+2½ -102",
+                                    "awaySpread": "-2½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:16 PM",
+                                    "homeSpread": "+2½ -104",
+                                    "awaySpread": "-2½ -108"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:04 PM",
+                                    "homeSpread": "+2½ -106",
+                                    "awaySpread": "-2½ -106"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:41 AM",
+                                    "homeSpread": "+2½ -110",
+                                    "awaySpread": "-2½ -102"
+                                }
+                            ],
+                            "MONEY LINE": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:17 PM",
+                                    "homeMoneyLine": "  +183",
+                                    "awayMoneyLine": "  -210"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:16 PM",
+                                    "homeMoneyLine": "  +177",
+                                    "awayMoneyLine": "  -202"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:04 PM",
+                                    "homeMoneyLine": "  +173",
+                                    "awayMoneyLine": "  -197"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:41 AM",
+                                    "homeMoneyLine": "  +169",
+                                    "awayMoneyLine": "  -193"
+                                }
+                            ],
+                            "TOTAL POINT": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "06:50 PM",
+                                    "underTotalPoint": "51½ -100",
+                                    "overTotalPoint": "51½ -112"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "06:50 PM",
+                                    "underTotalPoint": "51½ +105",
+                                    "overTotalPoint": "51½ -118"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "06:45 PM",
+                                    "underTotalPoint": "51½ -102",
+                                    "overTotalPoint": "51½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "06:45 PM",
+                                    "underTotalPoint": "51½ -106",
+                                    "overTotalPoint": "51½ -106"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "06:44 PM",
+                                    "underTotalPoint": "51½ +101",
+                                    "overTotalPoint": "51½ -113"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "06:34 PM",
+                                    "underTotalPoint": "51½ -106",
+                                    "overTotalPoint": "51½ -106"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "06:34 PM",
+                                    "underTotalPoint": "51 -115",
+                                    "overTotalPoint": "51 +102"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:33 PM",
+                                    "underTotalPoint": "51 -106",
+                                    "overTotalPoint": "51 -106"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:17 PM",
+                                    "underTotalPoint": "51 -112",
+                                    "overTotalPoint": "51 -100"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:16 PM",
+                                    "underTotalPoint": "50½ -117",
+                                    "overTotalPoint": "50½ +104"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "03:34 PM",
+                                    "underTotalPoint": "50½ -108",
+                                    "overTotalPoint": "50½ -104"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "03:11 PM",
+                                    "underTotalPoint": "50½ -111",
+                                    "overTotalPoint": "50½ -101"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "03:02 PM",
+                                    "underTotalPoint": "50½ -109",
+                                    "overTotalPoint": "50½ -103"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "02:55 PM",
+                                    "underTotalPoint": "50½ -106",
+                                    "overTotalPoint": "50½ -106"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "02:54 PM",
+                                    "underTotalPoint": "51½ +107",
+                                    "overTotalPoint": "51½ -120"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "02:22 PM",
+                                    "underTotalPoint": "51½ -100",
+                                    "overTotalPoint": "51½ -112"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "02:21 PM",
+                                    "underTotalPoint": "52 +108",
+                                    "overTotalPoint": "52 -121"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "02:13 PM",
+                                    "underTotalPoint": "52 +101",
+                                    "overTotalPoint": "52 -113"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:41 AM",
+                                    "underTotalPoint": "52 -106",
+                                    "overTotalPoint": "52 -106"
+                                }
+                            ]
+                        }
+                    ],
+                    "2ndQuarter": [
+                        {
+                            "SPREAD": [],
+                            "MONEY LINE": [],
+                            "TOTAL POINT": []
+                        }
+                    ],
+                    "3rdQuarter": [
+                        {
+                            "SPREAD": [],
+                            "MONEY LINE": [],
+                            "TOTAL POINT": []
+                        }
+                    ],
+                    "4thQuarter": [
+                        {
+                            "SPREAD": [],
+                            "MONEY LINE": [],
+                            "TOTAL POINT": []
+                        }
+                    ]
+                }
+            ],
+            "BookMaker": [
+                {
+                    "full": [
+                        {
+                            "SPREAD": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:16 PM",
+                                    "homeSpread": "+8 -110",
+                                    "awaySpread": "-8 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:06 PM",
+                                    "homeSpread": "+8½ -110",
+                                    "awaySpread": "-8½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:06 AM",
+                                    "homeSpread": "+8 -110",
+                                    "awaySpread": "-8 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "04:36 AM",
+                                    "homeSpread": "+7½ -110",
+                                    "awaySpread": "-7½ -110"
+                                }
+                            ],
+                            "MONEY LINE": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:16 PM",
+                                    "homeMoneyLine": "  +275",
+                                    "awayMoneyLine": "  -350"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:16 PM",
+                                    "homeMoneyLine": "  +275",
+                                    "awayMoneyLine": "  -350"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:06 PM",
+                                    "homeMoneyLine": "  +290",
+                                    "awayMoneyLine": "  -365"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "06:56 PM",
+                                    "homeMoneyLine": "  +280",
+                                    "awayMoneyLine": "  -360"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "06:46 PM",
+                                    "homeMoneyLine": "  +295",
+                                    "awayMoneyLine": "  -375"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "06:26 PM",
+                                    "homeMoneyLine": "  +300",
+                                    "awayMoneyLine": "  -385"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:46 PM",
+                                    "homeMoneyLine": "  +305",
+                                    "awayMoneyLine": "  -385"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "03:07 PM",
+                                    "homeMoneyLine": "  +320",
+                                    "awayMoneyLine": "  -420"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "03:07 PM",
+                                    "homeMoneyLine": "  +320",
+                                    "awayMoneyLine": "  -420"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:16 PM",
+                                    "homeMoneyLine": "  +325",
+                                    "awayMoneyLine": "  -425"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:06 PM",
+                                    "homeMoneyLine": "  +315",
+                                    "awayMoneyLine": "  -415"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "04:36 AM",
+                                    "homeMoneyLine": "  +275",
+                                    "awayMoneyLine": "  -355"
+                                }
+                            ],
+                            "TOTAL POINT": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:16 PM",
+                                    "underTotalPoint": "204 -110",
+                                    "overTotalPoint": "204 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:06 PM",
+                                    "underTotalPoint": "204½ -110",
+                                    "overTotalPoint": "204½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "08:06 AM",
+                                    "underTotalPoint": "205 -110",
+                                    "overTotalPoint": "205 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "04:36 AM",
+                                    "underTotalPoint": "206 -110",
+                                    "overTotalPoint": "206 -110"
+                                }
+                            ]
+                        }
+                    ],
+                    "1stHalf": [
+                        {
+                            "SPREAD": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:16 PM",
+                                    "homeSpread": "+4½ -105",
+                                    "awaySpread": "-4½ -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "10:26 AM",
+                                    "homeSpread": "+4½ -115",
+                                    "awaySpread": "-4½ -105"
+                                }
+                            ],
+                            "MONEY LINE": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:16 PM",
+                                    "homeMoneyLine": "  +230",
+                                    "awayMoneyLine": "  -280"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "10:26 AM",
+                                    "homeMoneyLine": "  +205",
+                                    "awayMoneyLine": "  -255"
+                                }
+                            ],
+                            "TOTAL POINT": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:16 PM",
+                                    "underTotalPoint": "103 -110",
+                                    "overTotalPoint": "103 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "06:06 PM",
+                                    "underTotalPoint": "103½ -110",
+                                    "overTotalPoint": "103½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "10:26 AM",
+                                    "underTotalPoint": "103 -110",
+                                    "overTotalPoint": "103 -110"
+                                }
+                            ]
+                        }
+                    ],
+                    "2ndHalf": [
+                        {
+                            "SPREAD": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "08:46 PM",
+                                    "homeSpread": "-1½ -110",
+                                    "awaySpread": "+1½ -110"
+                                }
+                            ],
+                            "MONEY LINE": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "08:46 PM",
+                                    "homeMoneyLine": "  -140",
+                                    "awayMoneyLine": "  +120"
+                                }
+                            ],
+                            "TOTAL POINT": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "08:46 PM",
+                                    "underTotalPoint": "100 -110",
+                                    "overTotalPoint": "100 -110"
+                                }
+                            ]
+                        }
+                    ],
+                    "1stQuarter": [
+                        {
+                            "SPREAD": [],
+                            "MONEY LINE": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:16 PM",
+                                    "homeMoneyLine": "  +162",
+                                    "awayMoneyLine": "  -213"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:16 PM",
+                                    "homeMoneyLine": "  +175",
+                                    "awayMoneyLine": "  -227"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:06 AM",
+                                    "homeMoneyLine": "  +162",
+                                    "awayMoneyLine": "  -213"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "04:36 AM",
+                                    "homeMoneyLine": "  +160",
+                                    "awayMoneyLine": "  -208"
+                                }
+                            ],
+                            "TOTAL POINT": []
+                        }
+                    ],
+                    "2ndQuarter": [
+                        {
+                            "SPREAD": [],
+                            "MONEY LINE": [],
+                            "TOTAL POINT": []
+                        }
+                    ],
+                    "3rdQuarter": [
+                        {
+                            "SPREAD": [],
+                            "MONEY LINE": [],
+                            "TOTAL POINT": []
+                        }
+                    ],
+                    "4thQuarter": [
+                        {
+                            "SPREAD": [],
+                            "MONEY LINE": [],
+                            "TOTAL POINT": []
+                        }
+                    ]
+                }
+            ],
+            "BetOnline": [
+                {
+                    "full": [
+                        {
+                            "SPREAD": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:23 PM",
+                                    "homeSpread": "+8½ -115",
+                                    "awaySpread": "-8½ -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:22 PM",
+                                    "homeSpread": "+8½ -110",
+                                    "awaySpread": "-8½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:18 PM",
+                                    "homeSpread": "+8½ -115",
+                                    "awaySpread": "-8½ -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:16 PM",
+                                    "homeSpread": "+8½ -110",
+                                    "awaySpread": "-8½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:15 PM",
+                                    "homeSpread": "+8½ -112",
+                                    "awaySpread": "-8½ -108"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:14 PM",
+                                    "homeSpread": "+8½ -110",
+                                    "awaySpread": "-8½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:13 PM",
+                                    "homeSpread": "+8½ -112",
+                                    "awaySpread": "-8½ -108"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:04 PM",
+                                    "homeSpread": "+8½ -110",
+                                    "awaySpread": "-8½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:03 PM",
+                                    "homeSpread": "+8½ -105",
+                                    "awaySpread": "-8½ -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:02 PM",
+                                    "homeSpread": "+8½ -110",
+                                    "awaySpread": "-8½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:02 PM",
+                                    "homeSpread": "+8½ -105",
+                                    "awaySpread": "-8½ -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:58 PM",
+                                    "homeSpread": "+8½ -110",
+                                    "awaySpread": "-8½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:58 PM",
+                                    "homeSpread": "+8½ -105",
+                                    "awaySpread": "-8½ -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:56 PM",
+                                    "homeSpread": "+8½ -110",
+                                    "awaySpread": "-8½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:55 PM",
+                                    "homeSpread": "+8½ -105",
+                                    "awaySpread": "-8½ -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:54 PM",
+                                    "homeSpread": "+8½ -110",
+                                    "awaySpread": "-8½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:52 PM",
+                                    "homeSpread": "+8½ -105",
+                                    "awaySpread": "-8½ -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:51 PM",
+                                    "homeSpread": "+8½ -110",
+                                    "awaySpread": "-8½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:22 PM",
+                                    "homeSpread": "+8½ -105",
+                                    "awaySpread": "-8½ -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:21 PM",
+                                    "homeSpread": "+8 -105",
+                                    "awaySpread": "-8 -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:20 PM",
+                                    "homeSpread": "+8½ -105",
+                                    "awaySpread": "-8½ -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:19 PM",
+                                    "homeSpread": "+8 -105",
+                                    "awaySpread": "-8 -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:16 PM",
+                                    "homeSpread": "+8½ -105",
+                                    "awaySpread": "-8½ -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:15 PM",
+                                    "homeSpread": "+8 -105",
+                                    "awaySpread": "-8 -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:13 PM",
+                                    "homeSpread": "+8½ -105",
+                                    "awaySpread": "-8½ -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:39 AM",
+                                    "homeSpread": "+8 -105",
+                                    "awaySpread": "-8 -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:38 AM",
+                                    "homeSpread": "+7½ -110",
+                                    "awaySpread": "-7½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:36 AM",
+                                    "homeSpread": "+8 -105",
+                                    "awaySpread": "-8 -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:35 AM",
+                                    "homeSpread": "+7½ -110",
+                                    "awaySpread": "-7½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:34 AM",
+                                    "homeSpread": "+8 -105",
+                                    "awaySpread": "-8 -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:33 AM",
+                                    "homeSpread": "+7½ -110",
+                                    "awaySpread": "-7½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:31 AM",
+                                    "homeSpread": "+8 -105",
+                                    "awaySpread": "-8 -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:31 AM",
+                                    "homeSpread": "+7½ -110",
+                                    "awaySpread": "-7½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:30 AM",
+                                    "homeSpread": "+8 -105",
+                                    "awaySpread": "-8 -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:29 AM",
+                                    "homeSpread": "+7½ -110",
+                                    "awaySpread": "-7½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:29 AM",
+                                    "homeSpread": "+8 -105",
+                                    "awaySpread": "-8 -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "02:58 AM",
+                                    "homeSpread": "+7½ -110",
+                                    "awaySpread": "-7½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "02:57 AM",
+                                    "homeSpread": "+7 -110",
+                                    "awaySpread": "-7 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "02:54 AM",
+                                    "homeSpread": "+7½ -110",
+                                    "awaySpread": "-7½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "02:53 AM",
+                                    "homeSpread": "+7 -110",
+                                    "awaySpread": "-7 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "02:52 AM",
+                                    "homeSpread": "+7½ -110",
+                                    "awaySpread": "-7½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:43 AM",
+                                    "homeSpread": "+7 -110",
+                                    "awaySpread": "-7 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:42 AM",
+                                    "homeSpread": "+7½ -105",
+                                    "awaySpread": "-7½ -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:42 AM",
+                                    "homeSpread": "+7 -110",
+                                    "awaySpread": "-7 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:41 AM",
+                                    "homeSpread": "+7½ -105",
+                                    "awaySpread": "-7½ -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:40 AM",
+                                    "homeSpread": "+7 -110",
+                                    "awaySpread": "-7 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:39 AM",
+                                    "homeSpread": "+7½ -105",
+                                    "awaySpread": "-7½ -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:38 AM",
+                                    "homeSpread": "+7 -110",
+                                    "awaySpread": "-7 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:38 AM",
+                                    "homeSpread": "+7½ -105",
+                                    "awaySpread": "-7½ -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:37 AM",
+                                    "homeSpread": "+7 -110",
+                                    "awaySpread": "-7 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:36 AM",
+                                    "homeSpread": "+7½ -105",
+                                    "awaySpread": "-7½ -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:35 AM",
+                                    "homeSpread": "+7 -110",
+                                    "awaySpread": "-7 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:34 AM",
+                                    "homeSpread": "+7½ -105",
+                                    "awaySpread": "-7½ -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:32 AM",
+                                    "homeSpread": "+7 -110",
+                                    "awaySpread": "-7 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:30 AM",
+                                    "homeSpread": "+7½ -105",
+                                    "awaySpread": "-7½ -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:30 AM",
+                                    "homeSpread": "+7 -110",
+                                    "awaySpread": "-7 -110"
+                                },
+                                {
+                                    "date": "04/10",
+                                    "Time": "11:11 PM",
+                                    "homeSpread": "+7½ -105",
+                                    "awaySpread": "-7½ -115"
+                                },
+                                {
+                                    "date": "04/10",
+                                    "Time": "03:11 PM",
+                                    "homeSpread": "+7½ -110",
+                                    "awaySpread": "-7½ -110"
+                                }
+                            ],
+                            "MONEY LINE": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:23 PM",
+                                    "homeMoneyLine": "  +289",
+                                    "awayMoneyLine": "  -360"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:22 PM",
+                                    "homeMoneyLine": "  +299",
+                                    "awayMoneyLine": "  -375"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:18 PM",
+                                    "homeMoneyLine": "  +289",
+                                    "awayMoneyLine": "  -360"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:13 PM",
+                                    "homeMoneyLine": "  +299",
+                                    "awayMoneyLine": "  -375"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:07 PM",
+                                    "homeMoneyLine": "  +317",
+                                    "awayMoneyLine": "  -400"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:06 PM",
+                                    "homeMoneyLine": "  +299",
+                                    "awayMoneyLine": "  -375"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:05 PM",
+                                    "homeMoneyLine": "  +317",
+                                    "awayMoneyLine": "  -400"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:03 PM",
+                                    "homeMoneyLine": "  +299",
+                                    "awayMoneyLine": "  -375"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:03 PM",
+                                    "homeMoneyLine": "  +317",
+                                    "awayMoneyLine": "  -400"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:01 PM",
+                                    "homeMoneyLine": "  +299",
+                                    "awayMoneyLine": "  -375"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:28 PM",
+                                    "homeMoneyLine": "  +317",
+                                    "awayMoneyLine": "  -400"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:27 PM",
+                                    "homeMoneyLine": "  +330",
+                                    "awayMoneyLine": "  -420"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:25 PM",
+                                    "homeMoneyLine": "  +317",
+                                    "awayMoneyLine": "  -400"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:24 PM",
+                                    "homeMoneyLine": "  +330",
+                                    "awayMoneyLine": "  -420"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:23 PM",
+                                    "homeMoneyLine": "  +317",
+                                    "awayMoneyLine": "  -400"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:21 PM",
+                                    "homeMoneyLine": "  +330",
+                                    "awayMoneyLine": "  -420"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:16 PM",
+                                    "homeMoneyLine": "  +317",
+                                    "awayMoneyLine": "  -400"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:22 PM",
+                                    "homeMoneyLine": "  +330",
+                                    "awayMoneyLine": "  -420"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:21 PM",
+                                    "homeMoneyLine": "  +296",
+                                    "awayMoneyLine": "  -370"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:20 PM",
+                                    "homeMoneyLine": "  +330",
+                                    "awayMoneyLine": "  -420"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:19 PM",
+                                    "homeMoneyLine": "  +296",
+                                    "awayMoneyLine": "  -370"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:16 PM",
+                                    "homeMoneyLine": "  +330",
+                                    "awayMoneyLine": "  -420"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:15 PM",
+                                    "homeMoneyLine": "  +296",
+                                    "awayMoneyLine": "  -370"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:13 PM",
+                                    "homeMoneyLine": "  +330",
+                                    "awayMoneyLine": "  -420"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:39 AM",
+                                    "homeMoneyLine": "  +296",
+                                    "awayMoneyLine": "  -370"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:38 AM",
+                                    "homeMoneyLine": "  +274",
+                                    "awayMoneyLine": "  -340"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:36 AM",
+                                    "homeMoneyLine": "  +296",
+                                    "awayMoneyLine": "  -370"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:35 AM",
+                                    "homeMoneyLine": "  +274",
+                                    "awayMoneyLine": "  -340"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:34 AM",
+                                    "homeMoneyLine": "  +296",
+                                    "awayMoneyLine": "  -370"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:33 AM",
+                                    "homeMoneyLine": "  +274",
+                                    "awayMoneyLine": "  -340"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:31 AM",
+                                    "homeMoneyLine": "  +296",
+                                    "awayMoneyLine": "  -370"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:31 AM",
+                                    "homeMoneyLine": "  +274",
+                                    "awayMoneyLine": "  -340"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:30 AM",
+                                    "homeMoneyLine": "  +296",
+                                    "awayMoneyLine": "  -370"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:29 AM",
+                                    "homeMoneyLine": "  +274",
+                                    "awayMoneyLine": "  -340"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:29 AM",
+                                    "homeMoneyLine": "  +296",
+                                    "awayMoneyLine": "  -370"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "02:58 AM",
+                                    "homeMoneyLine": "  +274",
+                                    "awayMoneyLine": "  -340"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "02:57 AM",
+                                    "homeMoneyLine": "  +245",
+                                    "awayMoneyLine": "  -300"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "02:54 AM",
+                                    "homeMoneyLine": "  +274",
+                                    "awayMoneyLine": "  -340"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "02:53 AM",
+                                    "homeMoneyLine": "  +245",
+                                    "awayMoneyLine": "  -300"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "02:52 AM",
+                                    "homeMoneyLine": "  +274",
+                                    "awayMoneyLine": "  -340"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:43 AM",
+                                    "homeMoneyLine": "  +245",
+                                    "awayMoneyLine": "  -300"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:42 AM",
+                                    "homeMoneyLine": "  +274",
+                                    "awayMoneyLine": "  -340"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:42 AM",
+                                    "homeMoneyLine": "  +245",
+                                    "awayMoneyLine": "  -300"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:41 AM",
+                                    "homeMoneyLine": "  +274",
+                                    "awayMoneyLine": "  -340"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:40 AM",
+                                    "homeMoneyLine": "  +245",
+                                    "awayMoneyLine": "  -300"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:39 AM",
+                                    "homeMoneyLine": "  +274",
+                                    "awayMoneyLine": "  -340"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:38 AM",
+                                    "homeMoneyLine": "  +245",
+                                    "awayMoneyLine": "  -300"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:38 AM",
+                                    "homeMoneyLine": "  +274",
+                                    "awayMoneyLine": "  -340"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:37 AM",
+                                    "homeMoneyLine": "  +245",
+                                    "awayMoneyLine": "  -300"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:36 AM",
+                                    "homeMoneyLine": "  +274",
+                                    "awayMoneyLine": "  -340"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:35 AM",
+                                    "homeMoneyLine": "  +245",
+                                    "awayMoneyLine": "  -300"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:34 AM",
+                                    "homeMoneyLine": "  +274",
+                                    "awayMoneyLine": "  -340"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:32 AM",
+                                    "homeMoneyLine": "  +245",
+                                    "awayMoneyLine": "  -300"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:30 AM",
+                                    "homeMoneyLine": "  +274",
+                                    "awayMoneyLine": "  -340"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:30 AM",
+                                    "homeMoneyLine": "  +245",
+                                    "awayMoneyLine": "  -300"
+                                },
+                                {
+                                    "date": "04/10",
+                                    "Time": "11:16 PM",
+                                    "homeMoneyLine": "  +274",
+                                    "awayMoneyLine": "  -340"
+                                }
+                            ],
+                            "TOTAL POINT": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:54 PM",
+                                    "underTotalPoint": "203½ -110",
+                                    "overTotalPoint": "203½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:47 PM",
+                                    "underTotalPoint": "203 -110",
+                                    "overTotalPoint": "203 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:43 PM",
+                                    "underTotalPoint": "203½ -110",
+                                    "overTotalPoint": "203½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:41 PM",
+                                    "underTotalPoint": "203 -110",
+                                    "overTotalPoint": "203 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:40 PM",
+                                    "underTotalPoint": "203½ -110",
+                                    "overTotalPoint": "203½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:39 PM",
+                                    "underTotalPoint": "203 -110",
+                                    "overTotalPoint": "203 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:38 PM",
+                                    "underTotalPoint": "203½ -110",
+                                    "overTotalPoint": "203½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:36 PM",
+                                    "underTotalPoint": "203 -110",
+                                    "overTotalPoint": "203 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:23 PM",
+                                    "underTotalPoint": "203½ -110",
+                                    "overTotalPoint": "203½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:22 PM",
+                                    "underTotalPoint": "204½ -110",
+                                    "overTotalPoint": "204½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:18 PM",
+                                    "underTotalPoint": "203½ -110",
+                                    "overTotalPoint": "203½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:13 PM",
+                                    "underTotalPoint": "204½ -110",
+                                    "overTotalPoint": "204½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:07 PM",
+                                    "underTotalPoint": "205 -110",
+                                    "overTotalPoint": "205 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:06 PM",
+                                    "underTotalPoint": "204½ -110",
+                                    "overTotalPoint": "204½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:05 PM",
+                                    "underTotalPoint": "205 -110",
+                                    "overTotalPoint": "205 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:03 PM",
+                                    "underTotalPoint": "204½ -110",
+                                    "overTotalPoint": "204½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:03 PM",
+                                    "underTotalPoint": "205 -110",
+                                    "overTotalPoint": "205 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:01 PM",
+                                    "underTotalPoint": "204½ -110",
+                                    "overTotalPoint": "204½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:11 PM",
+                                    "underTotalPoint": "205 -110",
+                                    "overTotalPoint": "205 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:09 PM",
+                                    "underTotalPoint": "204½ -110",
+                                    "overTotalPoint": "204½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:05 PM",
+                                    "underTotalPoint": "205 -110",
+                                    "overTotalPoint": "205 -110"
+                                },
+                                {
+                                    "date": "04/10",
+                                    "Time": "11:16 PM",
+                                    "underTotalPoint": "204½ -110",
+                                    "overTotalPoint": "204½ -110"
+                                },
+                                {
+                                    "date": "04/10",
+                                    "Time": "03:11 PM",
+                                    "underTotalPoint": "206 -110",
+                                    "overTotalPoint": "206 -110"
+                                }
+                            ]
+                        }
+                    ],
+                    "1stHalf": [
+                        {
+                            "SPREAD": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:13 PM",
+                                    "homeSpread": "+4½ -105",
+                                    "awaySpread": "-4½ -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:07 PM",
+                                    "homeSpread": "+5 -115",
+                                    "awaySpread": "-5 -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:06 PM",
+                                    "homeSpread": "+4½ -105",
+                                    "awaySpread": "-4½ -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:05 PM",
+                                    "homeSpread": "+5 -115",
+                                    "awaySpread": "-5 -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:03 PM",
+                                    "homeSpread": "+4½ -105",
+                                    "awaySpread": "-4½ -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:03 PM",
+                                    "homeSpread": "+5 -115",
+                                    "awaySpread": "-5 -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:01 PM",
+                                    "homeSpread": "+4½ -105",
+                                    "awaySpread": "-4½ -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:28 PM",
+                                    "homeSpread": "+5 -115",
+                                    "awaySpread": "-5 -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:27 PM",
+                                    "homeSpread": "+5 -110",
+                                    "awaySpread": "-5 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:25 PM",
+                                    "homeSpread": "+5 -115",
+                                    "awaySpread": "-5 -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:24 PM",
+                                    "homeSpread": "+5 -110",
+                                    "awaySpread": "-5 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:23 PM",
+                                    "homeSpread": "+5 -115",
+                                    "awaySpread": "-5 -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:21 PM",
+                                    "homeSpread": "+5 -110",
+                                    "awaySpread": "-5 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:16 PM",
+                                    "homeSpread": "+5 -115",
+                                    "awaySpread": "-5 -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:22 PM",
+                                    "homeSpread": "+5 -110",
+                                    "awaySpread": "-5 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:21 PM",
+                                    "homeSpread": "+4½ -110",
+                                    "awaySpread": "-4½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:20 PM",
+                                    "homeSpread": "+5 -110",
+                                    "awaySpread": "-5 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:19 PM",
+                                    "homeSpread": "+4½ -110",
+                                    "awaySpread": "-4½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:16 PM",
+                                    "homeSpread": "+5 -110",
+                                    "awaySpread": "-5 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:15 PM",
+                                    "homeSpread": "+4½ -110",
+                                    "awaySpread": "-4½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:13 PM",
+                                    "homeSpread": "+5 -110",
+                                    "awaySpread": "-5 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:39 AM",
+                                    "homeSpread": "+4½ -110",
+                                    "awaySpread": "-4½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:38 AM",
+                                    "homeSpread": "+4½ -115",
+                                    "awaySpread": "-4½ -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:36 AM",
+                                    "homeSpread": "+4½ -110",
+                                    "awaySpread": "-4½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:35 AM",
+                                    "homeSpread": "+4½ -115",
+                                    "awaySpread": "-4½ -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:34 AM",
+                                    "homeSpread": "+4½ -110",
+                                    "awaySpread": "-4½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:33 AM",
+                                    "homeSpread": "+4½ -115",
+                                    "awaySpread": "-4½ -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:31 AM",
+                                    "homeSpread": "+4½ -110",
+                                    "awaySpread": "-4½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:31 AM",
+                                    "homeSpread": "+4½ -115",
+                                    "awaySpread": "-4½ -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:30 AM",
+                                    "homeSpread": "+4½ -110",
+                                    "awaySpread": "-4½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:29 AM",
+                                    "homeSpread": "+4½ -115",
+                                    "awaySpread": "-4½ -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:29 AM",
+                                    "homeSpread": "+4½ -110",
+                                    "awaySpread": "-4½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "02:58 AM",
+                                    "homeSpread": "+4½ -115",
+                                    "awaySpread": "-4½ -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "02:57 AM",
+                                    "homeSpread": "+4 -110",
+                                    "awaySpread": "-4 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "02:54 AM",
+                                    "homeSpread": "+4½ -115",
+                                    "awaySpread": "-4½ -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "02:53 AM",
+                                    "homeSpread": "+4 -110",
+                                    "awaySpread": "-4 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "02:52 AM",
+                                    "homeSpread": "+4½ -115",
+                                    "awaySpread": "-4½ -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:43 AM",
+                                    "homeSpread": "+4 -110",
+                                    "awaySpread": "-4 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:42 AM",
+                                    "homeSpread": "+4½ -115",
+                                    "awaySpread": "-4½ -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:42 AM",
+                                    "homeSpread": "+4 -110",
+                                    "awaySpread": "-4 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:41 AM",
+                                    "homeSpread": "+4½ -115",
+                                    "awaySpread": "-4½ -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:40 AM",
+                                    "homeSpread": "+4 -110",
+                                    "awaySpread": "-4 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:39 AM",
+                                    "homeSpread": "+4½ -115",
+                                    "awaySpread": "-4½ -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:38 AM",
+                                    "homeSpread": "+4 -110",
+                                    "awaySpread": "-4 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:38 AM",
+                                    "homeSpread": "+4½ -115",
+                                    "awaySpread": "-4½ -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:37 AM",
+                                    "homeSpread": "+4 -110",
+                                    "awaySpread": "-4 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:36 AM",
+                                    "homeSpread": "+4½ -115",
+                                    "awaySpread": "-4½ -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:35 AM",
+                                    "homeSpread": "+4 -110",
+                                    "awaySpread": "-4 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:34 AM",
+                                    "homeSpread": "+4½ -115",
+                                    "awaySpread": "-4½ -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:32 AM",
+                                    "homeSpread": "+4 -110",
+                                    "awaySpread": "-4 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:30 AM",
+                                    "homeSpread": "+4½ -115",
+                                    "awaySpread": "-4½ -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "01:30 AM",
+                                    "homeSpread": "+4 -110",
+                                    "awaySpread": "-4 -110"
+                                },
+                                {
+                                    "date": "04/10",
+                                    "Time": "11:16 PM",
+                                    "homeSpread": "+4½ -115",
+                                    "awaySpread": "-4½ -105"
+                                }
+                            ],
+                            "MONEY LINE": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:13 PM",
+                                    "homeMoneyLine": "  +218",
+                                    "awayMoneyLine": "  -265"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:07 PM",
+                                    "homeMoneyLine": "  +226",
+                                    "awayMoneyLine": "  -275"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:06 PM",
+                                    "homeMoneyLine": "  +218",
+                                    "awayMoneyLine": "  -265"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:05 PM",
+                                    "homeMoneyLine": "  +226",
+                                    "awayMoneyLine": "  -275"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:03 PM",
+                                    "homeMoneyLine": "  +218",
+                                    "awayMoneyLine": "  -265"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:03 PM",
+                                    "homeMoneyLine": "  +226",
+                                    "awayMoneyLine": "  -275"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:01 PM",
+                                    "homeMoneyLine": "  +218",
+                                    "awayMoneyLine": "  -265"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:28 PM",
+                                    "homeMoneyLine": "  +226",
+                                    "awayMoneyLine": "  -275"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:27 PM",
+                                    "homeMoneyLine": "  +234",
+                                    "awayMoneyLine": "  -285"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:25 PM",
+                                    "homeMoneyLine": "  +226",
+                                    "awayMoneyLine": "  -275"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:24 PM",
+                                    "homeMoneyLine": "  +234",
+                                    "awayMoneyLine": "  -285"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:23 PM",
+                                    "homeMoneyLine": "  +226",
+                                    "awayMoneyLine": "  -275"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:21 PM",
+                                    "homeMoneyLine": "  +234",
+                                    "awayMoneyLine": "  -285"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:16 PM",
+                                    "homeMoneyLine": "  +226",
+                                    "awayMoneyLine": "  -275"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:22 PM",
+                                    "homeMoneyLine": "  +234",
+                                    "awayMoneyLine": "  -285"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:21 PM",
+                                    "homeMoneyLine": "  +215",
+                                    "awayMoneyLine": "  -260"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:20 PM",
+                                    "homeMoneyLine": "  +234",
+                                    "awayMoneyLine": "  -285"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:19 PM",
+                                    "homeMoneyLine": "  +215",
+                                    "awayMoneyLine": "  -260"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:16 PM",
+                                    "homeMoneyLine": "  +234",
+                                    "awayMoneyLine": "  -285"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:15 PM",
+                                    "homeMoneyLine": "  +215",
+                                    "awayMoneyLine": "  -260"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:13 PM",
+                                    "homeMoneyLine": "  +234",
+                                    "awayMoneyLine": "  -285"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:39 AM",
+                                    "homeMoneyLine": "  +215",
+                                    "awayMoneyLine": "  -260"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:38 AM",
+                                    "homeMoneyLine": "  +195",
+                                    "awayMoneyLine": "  -235"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:36 AM",
+                                    "homeMoneyLine": "  +215",
+                                    "awayMoneyLine": "  -260"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:35 AM",
+                                    "homeMoneyLine": "  +195",
+                                    "awayMoneyLine": "  -235"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:34 AM",
+                                    "homeMoneyLine": "  +215",
+                                    "awayMoneyLine": "  -260"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:33 AM",
+                                    "homeMoneyLine": "  +195",
+                                    "awayMoneyLine": "  -235"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:31 AM",
+                                    "homeMoneyLine": "  +215",
+                                    "awayMoneyLine": "  -260"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:31 AM",
+                                    "homeMoneyLine": "  +195",
+                                    "awayMoneyLine": "  -235"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:30 AM",
+                                    "homeMoneyLine": "  +215",
+                                    "awayMoneyLine": "  -260"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:29 AM",
+                                    "homeMoneyLine": "  +195",
+                                    "awayMoneyLine": "  -235"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:29 AM",
+                                    "homeMoneyLine": "  +215",
+                                    "awayMoneyLine": "  -260"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "10:03 AM",
+                                    "homeMoneyLine": "  +195",
+                                    "awayMoneyLine": "  -235"
+                                }
+                            ],
+                            "TOTAL POINT": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:48 PM",
+                                    "underTotalPoint": "103 -110",
+                                    "overTotalPoint": "103 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:47 PM",
+                                    "underTotalPoint": "103½ -110",
+                                    "overTotalPoint": "103½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:41 PM",
+                                    "underTotalPoint": "103 -110",
+                                    "overTotalPoint": "103 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:23 PM",
+                                    "underTotalPoint": "103½ -110",
+                                    "overTotalPoint": "103½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:22 PM",
+                                    "underTotalPoint": "103 -110",
+                                    "overTotalPoint": "103 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:18 PM",
+                                    "underTotalPoint": "103½ -110",
+                                    "overTotalPoint": "103½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:13 PM",
+                                    "underTotalPoint": "103 -110",
+                                    "overTotalPoint": "103 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:07 PM",
+                                    "underTotalPoint": "103 -115",
+                                    "overTotalPoint": "103 -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:06 PM",
+                                    "underTotalPoint": "103 -110",
+                                    "overTotalPoint": "103 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:05 PM",
+                                    "underTotalPoint": "103 -115",
+                                    "overTotalPoint": "103 -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:03 PM",
+                                    "underTotalPoint": "103 -110",
+                                    "overTotalPoint": "103 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:03 PM",
+                                    "underTotalPoint": "103 -115",
+                                    "overTotalPoint": "103 -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:01 PM",
+                                    "underTotalPoint": "103 -110",
+                                    "overTotalPoint": "103 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "09:14 AM",
+                                    "underTotalPoint": "103 -115",
+                                    "overTotalPoint": "103 -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "09:14 AM",
+                                    "underTotalPoint": "104 -110",
+                                    "overTotalPoint": "104 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "09:13 AM",
+                                    "underTotalPoint": "103 -115",
+                                    "overTotalPoint": "103 -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "09:12 AM",
+                                    "underTotalPoint": "104 -110",
+                                    "overTotalPoint": "104 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "09:10 AM",
+                                    "underTotalPoint": "103 -115",
+                                    "overTotalPoint": "103 -105"
+                                },
+                                {
+                                    "date": "04/10",
+                                    "Time": "11:16 PM",
+                                    "underTotalPoint": "104 -110",
+                                    "overTotalPoint": "104 -110"
+                                },
+                                {
+                                    "date": "04/10",
+                                    "Time": "03:31 PM",
+                                    "underTotalPoint": "104½ -110",
+                                    "overTotalPoint": "104½ -110"
+                                }
+                            ]
+                        }
+                    ],
+                    "2ndHalf": [
+                        {
+                            "SPREAD": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "08:57 PM",
+                                    "homeSpread": "-1½ -110",
+                                    "awaySpread": "+1½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "08:54 PM",
+                                    "homeSpread": "-1 -115",
+                                    "awaySpread": "+1 -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "08:47 PM",
+                                    "homeSpread": "-1½ -110",
+                                    "awaySpread": "+1½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "08:42 PM",
+                                    "homeSpread": "-1 -115",
+                                    "awaySpread": "+1 -105"
+                                }
+                            ],
+                            "MONEY LINE": [],
+                            "TOTAL POINT": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "08:53 PM",
+                                    "underTotalPoint": "99½ -115",
+                                    "overTotalPoint": "99½ -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "08:52 PM",
+                                    "underTotalPoint": "100 -105",
+                                    "overTotalPoint": "100 -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "08:51 PM",
+                                    "underTotalPoint": "99½ -115",
+                                    "overTotalPoint": "99½ -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "08:47 PM",
+                                    "underTotalPoint": "100 -105",
+                                    "overTotalPoint": "100 -115"
+                                }
+                            ]
+                        }
+                    ],
+                    "1stQuarter": [
+                        {
+                            "SPREAD": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "06:03 PM",
+                                    "homeSpread": "+2½ -105",
+                                    "awaySpread": "-2½ -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "06:01 PM",
+                                    "homeSpread": "+2½ -106",
+                                    "awaySpread": "-2½ -114"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:59 PM",
+                                    "homeSpread": "+2½ -105",
+                                    "awaySpread": "-2½ -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:58 PM",
+                                    "homeSpread": "+2½ -106",
+                                    "awaySpread": "-2½ -114"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:54 PM",
+                                    "homeSpread": "+2½ -105",
+                                    "awaySpread": "-2½ -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:53 PM",
+                                    "homeSpread": "+2½ -106",
+                                    "awaySpread": "-2½ -114"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:52 PM",
+                                    "homeSpread": "+2½ -105",
+                                    "awaySpread": "-2½ -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:44 PM",
+                                    "homeSpread": "+2½ -106",
+                                    "awaySpread": "-2½ -114"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:40 PM",
+                                    "homeSpread": "+2½ -105",
+                                    "awaySpread": "-2½ -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:39 PM",
+                                    "homeSpread": "+2½ -106",
+                                    "awaySpread": "-2½ -114"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:37 PM",
+                                    "homeSpread": "+2½ -105",
+                                    "awaySpread": "-2½ -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:36 PM",
+                                    "homeSpread": "+2½ -106",
+                                    "awaySpread": "-2½ -114"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:35 PM",
+                                    "homeSpread": "+2½ -105",
+                                    "awaySpread": "-2½ -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:34 PM",
+                                    "homeSpread": "+2½ -106",
+                                    "awaySpread": "-2½ -114"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:32 PM",
+                                    "homeSpread": "+2½ -105",
+                                    "awaySpread": "-2½ -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "05:31 PM",
+                                    "homeSpread": "+2½ -106",
+                                    "awaySpread": "-2½ -114"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "04:18 PM",
+                                    "homeSpread": "+2½ -105",
+                                    "awaySpread": "-2½ -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "04:13 PM",
+                                    "homeSpread": "+2½ -110",
+                                    "awaySpread": "-2½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "04:12 PM",
+                                    "homeSpread": "+2½ -105",
+                                    "awaySpread": "-2½ -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "04:11 PM",
+                                    "homeSpread": "+2½ -110",
+                                    "awaySpread": "-2½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "04:08 PM",
+                                    "homeSpread": "+2½ -105",
+                                    "awaySpread": "-2½ -115"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "10:47 AM",
+                                    "homeSpread": "+2½ -110",
+                                    "awaySpread": "-2½ -110"
+                                }
+                            ],
+                            "MONEY LINE": [],
+                            "TOTAL POINT": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "04:59 PM",
+                                    "underTotalPoint": "51 -110",
+                                    "overTotalPoint": "51 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "04:58 PM",
+                                    "underTotalPoint": "51 +100",
+                                    "overTotalPoint": "51 -120"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "04:57 PM",
+                                    "underTotalPoint": "51 -110",
+                                    "overTotalPoint": "51 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "04:56 PM",
+                                    "underTotalPoint": "51 +100",
+                                    "overTotalPoint": "51 -120"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "04:54 PM",
+                                    "underTotalPoint": "51 -110",
+                                    "overTotalPoint": "51 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "04:53 PM",
+                                    "underTotalPoint": "51½ +100",
+                                    "overTotalPoint": "51½ -120"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "04:52 PM",
+                                    "underTotalPoint": "51 -110",
+                                    "overTotalPoint": "51 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "04:50 PM",
+                                    "underTotalPoint": "51½ +100",
+                                    "overTotalPoint": "51½ -120"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "04:49 PM",
+                                    "underTotalPoint": "51 -110",
+                                    "overTotalPoint": "51 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "04:48 PM",
+                                    "underTotalPoint": "51 +100",
+                                    "overTotalPoint": "51 -120"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "04:46 PM",
+                                    "underTotalPoint": "51½ +100",
+                                    "overTotalPoint": "51½ -120"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "04:44 PM",
+                                    "underTotalPoint": "51 +100",
+                                    "overTotalPoint": "51 -120"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "03:34 PM",
+                                    "underTotalPoint": "51½ +100",
+                                    "overTotalPoint": "51½ -120"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "03:31 PM",
+                                    "underTotalPoint": "51½ -102",
+                                    "overTotalPoint": "51½ -119"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "03:30 PM",
+                                    "underTotalPoint": "51½ +100",
+                                    "overTotalPoint": "51½ -120"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "03:25 PM",
+                                    "underTotalPoint": "51½ -102",
+                                    "overTotalPoint": "51½ -119"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "03:24 PM",
+                                    "underTotalPoint": "52 +100",
+                                    "overTotalPoint": "52 -120"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "03:22 PM",
+                                    "underTotalPoint": "51½ -102",
+                                    "overTotalPoint": "51½ -119"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "03:21 PM",
+                                    "underTotalPoint": "52 +100",
+                                    "overTotalPoint": "52 -120"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "03:19 PM",
+                                    "underTotalPoint": "51½ -102",
+                                    "overTotalPoint": "51½ -119"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "03:17 PM",
+                                    "underTotalPoint": "52 +100",
+                                    "overTotalPoint": "52 -120"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "03:15 PM",
+                                    "underTotalPoint": "51½ -102",
+                                    "overTotalPoint": "51½ -119"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "03:15 PM",
+                                    "underTotalPoint": "52 +100",
+                                    "overTotalPoint": "52 -120"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "03:13 PM",
+                                    "underTotalPoint": "52 -102",
+                                    "overTotalPoint": "52 -119"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "03:11 PM",
+                                    "underTotalPoint": "52 +100",
+                                    "overTotalPoint": "52 -120"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "03:10 PM",
+                                    "underTotalPoint": "52 -110",
+                                    "overTotalPoint": "52 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "03:09 PM",
+                                    "underTotalPoint": "52 +100",
+                                    "overTotalPoint": "52 -120"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "03:08 PM",
+                                    "underTotalPoint": "52 -110",
+                                    "overTotalPoint": "52 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "03:08 PM",
+                                    "underTotalPoint": "52 +100",
+                                    "overTotalPoint": "52 -120"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "03:07 PM",
+                                    "underTotalPoint": "52 -110",
+                                    "overTotalPoint": "52 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "03:06 PM",
+                                    "underTotalPoint": "52 +100",
+                                    "overTotalPoint": "52 -120"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "03:03 PM",
+                                    "underTotalPoint": "52 -102",
+                                    "overTotalPoint": "52 -119"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "10:47 AM",
+                                    "underTotalPoint": "52 -110",
+                                    "overTotalPoint": "52 -110"
+                                }
+                            ]
+                        }
+                    ],
+                    "2ndQuarter": [
+                        {
+                            "SPREAD": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "10:47 AM",
+                                    "homeSpread": "+1½ -105",
+                                    "awaySpread": "-1½ -115"
+                                }
+                            ],
+                            "MONEY LINE": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:16 PM",
+                                    "homeMoneyLine": "  +130",
+                                    "awayMoneyLine": "  -160"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "06:26 PM",
+                                    "homeMoneyLine": "  +135",
+                                    "awayMoneyLine": "  -165"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "12:16 PM",
+                                    "homeMoneyLine": "  +133",
+                                    "awayMoneyLine": "  -167"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:06 AM",
+                                    "homeMoneyLine": "  +130",
+                                    "awayMoneyLine": "  -161"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "04:36 AM",
+                                    "homeMoneyLine": "  +125",
+                                    "awayMoneyLine": "  -154"
+                                }
+                            ],
+                            "TOTAL POINT": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "10:47 AM",
+                                    "underTotalPoint": "51 -110",
+                                    "overTotalPoint": "51 -110"
+                                }
+                            ]
+                        }
+                    ],
+                    "3rdQuarter": [
+                        {
+                            "SPREAD": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:08 PM",
+                                    "homeSpread": "+2 -115",
+                                    "awaySpread": "-2 -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:07 PM",
+                                    "homeSpread": "+2½ -115",
+                                    "awaySpread": "-2½ -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:06 PM",
+                                    "homeSpread": "+2 -115",
+                                    "awaySpread": "-2 -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:05 PM",
+                                    "homeSpread": "+2½ -115",
+                                    "awaySpread": "-2½ -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "07:00 PM",
+                                    "homeSpread": "+2 -115",
+                                    "awaySpread": "-2 -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "06:59 PM",
+                                    "homeSpread": "+2½ -115",
+                                    "awaySpread": "-2½ -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "06:57 PM",
+                                    "homeSpread": "+2 -115",
+                                    "awaySpread": "-2 -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "04:18 PM",
+                                    "homeSpread": "+2½ -115",
+                                    "awaySpread": "-2½ -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "04:13 PM",
+                                    "homeSpread": "+2 -110",
+                                    "awaySpread": "-2 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "04:12 PM",
+                                    "homeSpread": "+2½ -115",
+                                    "awaySpread": "-2½ -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "04:11 PM",
+                                    "homeSpread": "+2 -110",
+                                    "awaySpread": "-2 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "04:08 PM",
+                                    "homeSpread": "+2½ -115",
+                                    "awaySpread": "-2½ -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "10:47 AM",
+                                    "homeSpread": "+2 -110",
+                                    "awaySpread": "-2 -110"
+                                }
+                            ],
+                            "MONEY LINE": [],
+                            "TOTAL POINT": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:39 AM",
+                                    "underTotalPoint": "50½ -110",
+                                    "overTotalPoint": "50½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:38 AM",
+                                    "underTotalPoint": "51 -110",
+                                    "overTotalPoint": "51 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:36 AM",
+                                    "underTotalPoint": "50½ -110",
+                                    "overTotalPoint": "50½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:35 AM",
+                                    "underTotalPoint": "51 -110",
+                                    "overTotalPoint": "51 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:34 AM",
+                                    "underTotalPoint": "50½ -110",
+                                    "overTotalPoint": "50½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:33 AM",
+                                    "underTotalPoint": "51 -110",
+                                    "overTotalPoint": "51 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:31 AM",
+                                    "underTotalPoint": "50½ -110",
+                                    "overTotalPoint": "50½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:31 AM",
+                                    "underTotalPoint": "51 -110",
+                                    "overTotalPoint": "51 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:30 AM",
+                                    "underTotalPoint": "50½ -110",
+                                    "overTotalPoint": "50½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:29 AM",
+                                    "underTotalPoint": "51 -110",
+                                    "overTotalPoint": "51 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "11:29 AM",
+                                    "underTotalPoint": "50½ -110",
+                                    "overTotalPoint": "50½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "10:47 AM",
+                                    "underTotalPoint": "51 -110",
+                                    "overTotalPoint": "51 -110"
+                                }
+                            ]
+                        }
+                    ],
+                    "4thQuarter": [
+                        {
+                            "SPREAD": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "04:18 PM",
+                                    "homeSpread": "+1½ -115",
+                                    "awaySpread": "-1½ -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "04:13 PM",
+                                    "homeSpread": "+1 -110",
+                                    "awaySpread": "-1 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "04:12 PM",
+                                    "homeSpread": "+1½ -115",
+                                    "awaySpread": "-1½ -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "04:11 PM",
+                                    "homeSpread": "+1 -110",
+                                    "awaySpread": "-1 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "04:08 PM",
+                                    "homeSpread": "+1½ -115",
+                                    "awaySpread": "-1½ -105"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "10:47 AM",
+                                    "homeSpread": "+1 -110",
+                                    "awaySpread": "-1 -110"
+                                }
+                            ],
+                            "MONEY LINE": [],
+                            "TOTAL POINT": [
+                                {
+                                    "date": "04/11",
+                                    "Time": "04:18 PM",
+                                    "underTotalPoint": "50 -110",
+                                    "overTotalPoint": "50 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "04:13 PM",
+                                    "underTotalPoint": "49½ -110",
+                                    "overTotalPoint": "49½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "04:12 PM",
+                                    "underTotalPoint": "50 -110",
+                                    "overTotalPoint": "50 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "04:11 PM",
+                                    "underTotalPoint": "49½ -110",
+                                    "overTotalPoint": "49½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "04:08 PM",
+                                    "underTotalPoint": "50 -110",
+                                    "overTotalPoint": "50 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "03:15 PM",
+                                    "underTotalPoint": "49½ -110",
+                                    "overTotalPoint": "49½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "03:13 PM",
+                                    "underTotalPoint": "50 -110",
+                                    "overTotalPoint": "50 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "03:11 PM",
+                                    "underTotalPoint": "49½ -110",
+                                    "overTotalPoint": "49½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "03:10 PM",
+                                    "underTotalPoint": "50 -110",
+                                    "overTotalPoint": "50 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "03:09 PM",
+                                    "underTotalPoint": "49½ -110",
+                                    "overTotalPoint": "49½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "03:08 PM",
+                                    "underTotalPoint": "50 -110",
+                                    "overTotalPoint": "50 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "03:08 PM",
+                                    "underTotalPoint": "49½ -110",
+                                    "overTotalPoint": "49½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "03:07 PM",
+                                    "underTotalPoint": "50 -110",
+                                    "overTotalPoint": "50 -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "03:06 PM",
+                                    "underTotalPoint": "49½ -110",
+                                    "overTotalPoint": "49½ -110"
+                                },
+                                {
+                                    "date": "04/11",
+                                    "Time": "10:47 AM",
+                                    "underTotalPoint": "50 -110",
+                                    "overTotalPoint": "50 -110"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
